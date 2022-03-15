@@ -17,14 +17,14 @@ The project uses MVVM and MVI architecture pattern.
 ## Libraries 
 
 * [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel/) - Manage UI related data in a lifecycle conscious way and act as a channel between use cases and ui
-* [DataBinding](https://developer.android.com/topic/libraries/data-binding) - support library that allows binding of UI components in layouts to data sources,binds character details and search results to UI
-navigation between fragments
+* [DataBinding](https://developer.android.com/topic/libraries/data-binding) -EazeGraph is an Android library for creating beautiful and fancy charts. Its main goal was to create a lighweight library which is easy to use and highly customizeable with an "up-to-date"-look.
+
 * [Dagger 2](https://dagger.dev/dev-guide/) - For Dependency Injection.
 * [Kotlin Flow](https://developer.android.com/kotlin/flow) - To access data sequentially
 
 
 ## Screenshots
-|<img src="screenshots/home.png" width=200/>|<img src="screenshots/create.png" width=200/>|<img src="screenshots/select.png" width=200/>|
+|<img src="https://imgur.com/a/ZVVk7ZE" width=200/>|<img src="screenshots/create.png" width=200/>|<img src="screenshots/select.png" width=200/>|
 |:----:|:----:|:----:|
 
 ## Demo
